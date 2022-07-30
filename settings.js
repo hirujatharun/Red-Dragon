@@ -35,7 +35,7 @@ global.vcardowner = ['+94715645786'] //ur owner number
 global.ownername = "😎H.Hiruj𝙖❯❯" //ur owner name
 global.ytname = "" //ur yt chanel name
 global.socialm = "GitHub: prabhasha2006" //ur github or insta name
-global.location = "Srilanka, Western, Kaluthara
+global.location = "Srilanka,Western,Colombo
 " //ur location
 
 //bot body 
